@@ -1,8 +1,5 @@
-# React + Vite
+# Chess Game
+A sleek and modern Chess game built using React, Vite, and Tailwind CSS. This project offers an interactive and responsive chessboard that allows users to play against each other with real-time move validation. The game interface is designed for an intuitive user experience, making it easy to focus on strategy. Leveraging Vite for fast development and Tailwind CSS for a minimalist, elegant design, this chess game is optimized for both desktop and mobile platforms.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://github.com/user-attachments/assets/4ca19524-085c-4d5b-b341-49ed5391c786" />
